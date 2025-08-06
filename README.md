@@ -21,3 +21,5 @@ efficiency.
 
 ● Investigate the profitability variance between high-performing and 
 low-performing vendors.
+
+snapshot of dashboard - 

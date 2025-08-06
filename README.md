@@ -22,4 +22,4 @@ efficiency.
 ● Investigate the profitability variance between high-performing and 
 low-performing vendors.
 
-snapshot of dashboard - 
+snapshot of dashboard - https://github.com/Parth-kharola669/Vendor-performance-dashboard/blob/main/Screenshot%202025-08-06%20234614.png
